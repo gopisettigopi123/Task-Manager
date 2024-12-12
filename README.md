@@ -1,7 +1,8 @@
 # Task-Manager
 A Task Manager App is a productivity tool designed to help users efficiently organize, track, and manage their tasks or to-dos. Developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app offers a seamless user experience and robust backend support.
 
-![image](https://github.com/user-attachments/assets/cfb431dc-40ef-4a95-8417-63d9010c526c)
+![image](https://github.com/user-attachments/assets/3180b610-6a4f-4dcc-92e8-b783a82efd9e)
+
 
 A Task Manager App is a productivity tool designed to help users efficiently organize, track, and manage their tasks or to-dos. Developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js), the app offers a seamless user experience and robust backend support.
 
